@@ -1,0 +1,1 @@
+what happens when a committed folder is deleted in the next push?
